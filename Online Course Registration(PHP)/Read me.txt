@@ -8,7 +8,7 @@ Database Configuration
 Open phpmyadmin
 Create Database onlinecourse
 Import database onlinecourse.sql (available inside zip package)
-Open Your browser put inside browser ìhttp://localhost/onlinecourseî
+Open Your browser put inside browser ‚Äúhttp://localhost/onlinecourse‚Äù
 
 
 Login Details for admin 
@@ -19,3 +19,5 @@ Login Details for Student:
 Reg No.: 10806121
 Password: Test@123
 Student Pincode for enroll Course Student: 822894
+
+Name:Jiya Sharma
